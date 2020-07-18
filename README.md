@@ -1,9 +1,9 @@
-# Unit 08 Project 1. HOME-WORK:  Professional Materials
+# Unit 08. HOME-WORK: Portfolio- Professional Materials
 
 ### By: Ram Sah
-* This is My Second portfolio. 
-  GitHub Link : https://ram-sah.github.io/portfolio/
-  Linkedin Link : https://www.linkedin.com/in/ram-sah-525aa41a7/
+*  This is My Second portfolio. 
+*  GitHub Link : https://ram-sah.github.io/portfolio/
+*  Linkedin Link : https://www.linkedin.com/in/ram-sah-525aa41a7/
 
 ## Tech and Features Used
 * Bootstrap: https://getbootstrap.com/
