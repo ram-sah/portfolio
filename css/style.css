@@ -10166,7 +10166,7 @@ header.masthead h1 {
   color: var(--white) !important;
 }
 
-/* social media */
+/* social Contacts */
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -10184,6 +10184,7 @@ header.masthead h1 {
   color: white;
 }
 
+/* Social Contacts word spacing  */
 .spac{
   word-spacing: 60px;
   font-weight: 900;
