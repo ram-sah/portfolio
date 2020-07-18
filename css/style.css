@@ -7716,7 +7716,7 @@ button.bg-dark:focus {
 
 .pt-3,
 .py-3 {
-  padding-top: 0.5rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-3,
@@ -7726,7 +7726,7 @@ button.bg-dark:focus {
 
 .pb-3,
 .py-3 {
-  padding-bottom: 0.5rem !important;
+  padding-bottom: 1rem !important;
 }
 
 .pl-3,
@@ -10165,3 +10165,28 @@ header.masthead h1 {
 .text-white-75 {
   color: var(--white) !important;
 }
+
+/* social media */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.5;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.spac{
+  word-spacing: 60px;
+  font-weight: 900;
+  font-size: 24px;
+}
+
