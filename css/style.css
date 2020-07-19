@@ -6322,6 +6322,7 @@ button.bg-dark:focus {
 
 .d-block {
   display: block !important;
+  color: black;
 }
 
 .d-table {
@@ -7764,7 +7765,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-5,
@@ -9865,7 +9866,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: red !important;
 }
 
 .text-black-50 {
@@ -10167,27 +10168,31 @@ header.masthead h1 {
 }
 
 /* social Contacts */
-.fa {
+/* .fab {
   padding: 20px;
   font-size: 30px;
   width: 30px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
-}
-.fa:hover {
-  opacity: 0.5;
-}
-
+} */
+/* 
 .fa-linkedin {
   background: #007bb5;
   color: white;
+}  */
+
+.fab:hover {
+  opacity: 0.5;
 }
 
+
+.fa:hover {
+  opacity: 0.5;
+}
 /* Social Contacts word spacing  */
 .spac{
-  word-spacing: 60px;
+  word-spacing: 20px;
   font-weight: 900;
   font-size: 24px;
 }
-
