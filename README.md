@@ -1,11 +1,13 @@
 # Week-08. HOME-WORK: Portfolio- Professional Materials
 
 ###  Ram Sah : My Second portfolio.
- 
+
+###  Resume : [RAM-Resume.pdf](https://github.com/ram-sah/portfolio/files/4943257/RAM-Resume.pdf) 
 ###  GitHub Link : https://ram-sah.github.io/portfolio/
 ###  Linkedin Link : https://www.linkedin.com/in/ram-sah-525aa41a7/
 
 ## Tech and Features Used
+* https://www.w3schools.com/
 * Bootstrap: https://getbootstrap.com/
 * Font Awesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 * Google Font: https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet
