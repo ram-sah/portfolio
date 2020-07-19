@@ -5,7 +5,7 @@
 * You can download my resume, email and call me.
 * You can see the "codes" on GitHub repo.
 * You cat find me at Social media LinkedIn.
-###  Download My Resume : [RAM-Resume.pdf](https://github.com/ram-sah/portfolio/files/4943257/RAM-Resume.pdf) 
+###  Download My Resume : [RAM-Resume.pdf](https://github.com/ram-sah/portfolio/files/4943538/RAM-Resume.pdf) 
 ###  GitHub Link : https://ram-sah.github.io/portfolio/
 ###  Linkedin Link : https://www.linkedin.com/in/ram-sah-525aa41a7/
 
