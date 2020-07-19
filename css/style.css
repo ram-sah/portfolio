@@ -10169,25 +10169,10 @@ header.masthead h1 {
   color: var(--white) !important;
 }
 
-/* social Contacts */
-/* .fab {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 50%;
-} */
-/* 
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}  */
-
+/* Social media button */
 .fab:hover {
   opacity: 0.5;
 }
-
 
 .fa:hover {
   opacity: 0.5;
