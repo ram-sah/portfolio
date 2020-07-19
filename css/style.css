@@ -10183,3 +10183,9 @@ header.masthead h1 {
   font-weight: 900;
   font-size: 24px;
 }
+
+.git-text {
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 15px;
+}
