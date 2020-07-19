@@ -1,11 +1,11 @@
 # Week-08. HOME-WORK: Portfolio- Professional Materials
 
-###  Ram Sah : My Second portfolio Contains information about me!
+##  Ram Sah : My Second Portfolio Contains Information about me!
 * You can read my Bio, 
 * You can download my resume, email and call me.
 * You can see the "codes" on GitHub repo.
-* You cat find me at Social media LinkedIn.
-###  Download My Resume : [RAM-Resume.pdf](https://github.com/ram-sah/portfolio/files/4943538/RAM-Resume.pdf) 
+* You can find me at Social media LinkedIn.
+###  Download My Resume : [RAM-Resume.pdf](https://github.com/ram-sah/portfolio/files/4944504/RAM-Resume.pdf) 
 ###  GitHub Link : https://ram-sah.github.io/portfolio/
 ###  Linkedin Link : https://www.linkedin.com/in/ram-sah-525aa41a7/
 
