@@ -10058,7 +10058,7 @@ hr.light {
 @media (min-width: 992px) {
   #mainNav {
     
-    background-color: rgba(9, 246, 53, 0.07);
+    background-color: #17a2b8a3;
   }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
@@ -10195,4 +10195,30 @@ header.masthead h1 {
   word-spacing: 20px;
   font-weight: 900;
   font-size: 24px;
+}
+
+/* 3-buttons */
+.btn-group button {
+  background-color: #6141f1; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
 }
