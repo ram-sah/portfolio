@@ -87,6 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 20px;
 }
 
 abbr[title],
@@ -162,6 +163,7 @@ a {
   color: #f4623a;
   text-decoration: none;
   background-color: transparent;
+  text-align: center;  
 }
 a:hover {
   color: #d6370c;
@@ -6155,7 +6157,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #17a2b8a3 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -7765,7 +7767,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 1rem !important;
+  padding-top: 2rem !important;
 }
 
 .pr-5,
@@ -10029,7 +10031,7 @@ hr.light {
 }
 
 .page-section {
-  padding: 8rem 0;
+  padding: 7rem 0;
 }
 
 #mainNav {
@@ -10115,7 +10117,7 @@ header.masthead h1 {
     padding-bottom: 0;
   }
   header.masthead p {
-    font-size: 1.15rem;
+    font-size: 1.5rem;
   }
   header.masthead h1 {
     font-size: 3rem;
@@ -10195,30 +10197,4 @@ header.masthead h1 {
   word-spacing: 20px;
   font-weight: 900;
   font-size: 24px;
-}
-
-/* 3-buttons */
-.btn-group button {
-  background-color: #6141f1; /* Green background */
-  border: 1px solid green; /* Green border */
-  color: white; /* White text */
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  float: left; /* Float the buttons side by side */
-}
-
-/* Clear floats (clearfix hack) */
-.btn-group:after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.btn-group button:not(:last-child) {
-  border-right: none; /* Prevent double borders */
-}
-
-/* Add a background color on hover */
-.btn-group button:hover {
-  background-color: #3e8e41;
 }
