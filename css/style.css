@@ -10185,13 +10185,13 @@ header.masthead h1 {
 }
 
 .git-text {
-  color: white;
+  color: red;
   font-family: 'Noto Sans', sans-serif;
   font-size: 15px;
 }
-/* 
+
 .git-text1 {
   color: white;
   font-family: 'Noto Sans', sans-serif;
   font-size: 15px;
-} */
+}
