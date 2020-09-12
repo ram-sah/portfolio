@@ -166,7 +166,7 @@ a {
   text-align: center;  
 }
 a:hover {
-  color: #d6370c;
+  color: red;
   text-decoration: underline;
 }
 
@@ -2655,6 +2655,11 @@ fieldset:disabled a.btn {
   color: #e00c0c;
   background-color: #f8f9fa;
   border-color: #f8f9fa;
+}
+.btn-light1:hover {
+  color: #212529;
+  background-color: #20c43b;
+  border-color: #dae0e5;
 }
 .btn-light:hover {
   color: #212529;
@@ -7767,7 +7772,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 2rem !important;
+  padding-top: 4.2rem !important;
 }
 
 .pr-5,
@@ -7777,7 +7782,7 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important;
+  padding-bottom: 5rem !important;
 }
 
 .pl-5,
@@ -9797,6 +9802,7 @@ button.bg-dark:focus {
 
 .text-white {
   color: #fff !important;
+  font-family: 'Milonga', cursive;
 }
 
 .text-primary {
@@ -10033,7 +10039,9 @@ hr.light {
 .page-section {
   padding: 7rem 0;
 }
-
+.page-section1 {
+  padding: 4rem 0;
+}
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #fff;
@@ -10105,9 +10113,16 @@ header.masthead {
   background-attachment: scroll;
   background-size: cover;
 }
-header.masthead h1 {
-  font-size: 2.25rem;
-  font-family: 'Milonga', cursive;
+
+header.masthead1 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/portfolio1.jpg");
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
 }
 @media (min-width: 992px) {
   header.masthead {
@@ -10121,6 +10136,7 @@ header.masthead h1 {
   }
   header.masthead h1 {
     font-size: 3rem;
+    font-family: 'Milonga', cursive;
   }
 }
 @media (min-width: 1200px) {
@@ -10148,7 +10164,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(4, 151, 29, 0.9);
+  background: limegreen;
   transition: opacity 0.25s ease;
   text-align: center;
 }

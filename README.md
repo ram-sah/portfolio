@@ -31,10 +31,11 @@
 If you have any questions please contact me at mohan2036@gmail.com
 ### GitHub Prifile: [ram-sah](https://github.com/ram-sah) 
 ### Repository : [portfolio](https://github.com/ram-sah/portfolio)
-###  Linkedin Link : https://www.linkedin.com/in/ram-sah-525aa41a7/
+###  Linkedin Link : https://www.linkedin.com/in/ram-sah/
 ###  Portfolio Page Link : https://ram-sah.github.io/portfolio/
 ###  Resume
-### Download My Resume : [RAM-Resume.pdf](https://github.com/ram-sah/portfolio/files/4944504/RAM-Resume.pdf) 
+### Download My Resume : [Ram-Sah Resume.PDF](https://drive.google.com/file/d/1ntDDYrN0LmEKWNkeJnAlFh5S5tF7r18G/view?usp=sharing)
+
 
 ## Technology-Used
 * https://www.w3schools.com/
