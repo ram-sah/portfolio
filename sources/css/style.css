@@ -1349,6 +1349,7 @@ pre code {
   .col-lg-10 {
     flex: 0 0 83.3333333333%;
     max-width: 83.3333333333%;
+    margin-left: -90px;
   }
 
   .col-lg-11 {
@@ -10105,7 +10106,7 @@ hr.light {
 }
 
 header.masthead {
-  padding-top: 10rem;
+  padding-top: 15rem;
   padding-bottom: calc(10rem - 4.5rem);
   background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg");
   background-position: center;
@@ -10133,6 +10134,7 @@ header.masthead1 {
   }
   header.masthead p {
     font-size: 1.5rem;
+    margin-left: -80px;
   }
   header.masthead h1 {
     font-size: 3rem;
@@ -10141,7 +10143,7 @@ header.masthead1 {
 }
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 3.5rem;
+    font-size: 3.2rem;
   }
 }
 
@@ -10210,4 +10212,16 @@ header.masthead1 {
   color: white;
   font-family: 'Noto Sans', sans-serif;
   font-size: 15px;
+}
+.myPic {
+  border-radius: 50%;
+  background-color: #333;
+  margin-left: 10%;
+  display: block;
+  width: 50%;
+  height: 130px;
+  width: 130px;
+  margin-top: 5em;
+  float: left;
+  background: url("../img/ram.jpg") center center no-repeat;
 }
